@@ -1,3 +1,6 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/Durgam-vamshi/Backendqwipoassign.git
+[submodule "client/my-project"]
+	path = client/my-project
+	url = https://github.com/Durgam-vamshi/QWIPOFRONTEND.git
